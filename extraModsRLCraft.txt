@@ -1,0 +1,10 @@
+chicken chunks 1.8.+ https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8/download/2755785
+Aroma1997s Dimensional World (Mining dimension) https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/download/2672438
+EnderIO https://www.curseforge.com/minecraft/mc-mods/ender-io/download/2858816
+Applied Energestics 2 https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063
+Drawers https://www.curseforge.com/minecraft/mc-mods/storage-drawers/download/2777929
+Disc Rich presence https://www.curseforge.com/minecraft/mc-mods/discordrpc/download/2674947
+AromaCore (dependency) https://www.curseforge.com/minecraft/mc-mods/aroma1997core/download/2676866
+CodeChickenLib (dependency) https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/download/2779848
+EnderCore (dependency) https://www.curseforge.com/minecraft/mc-mods/endercore/download/2972849
+Chameleon (dependency) https://www.curseforge.com/minecraft/mc-mods/chameleon/download/2450900
