@@ -8,3 +8,4 @@ AromaCore (dependency) https://www.curseforge.com/minecraft/mc-mods/aroma1997cor
 CodeChickenLib (dependency) https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/download/2779848
 EnderCore (dependency) https://www.curseforge.com/minecraft/mc-mods/endercore/download/2972849
 Chameleon (dependency) https://www.curseforge.com/minecraft/mc-mods/chameleon/download/2450900
+Tinkers construct https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483

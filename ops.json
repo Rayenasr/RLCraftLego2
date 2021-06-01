@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dbf66d08-db90-450b-ba08-475c5e44b96a",
+    "name": "Zonathos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
